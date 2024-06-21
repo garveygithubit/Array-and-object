@@ -3,7 +3,7 @@ let names = ['luigi', 'mario','yoshi'];
 names.push('toad');
 
 
-let numbers = [10,20,30,40]
+let numbers = [10,20,30,40]   
 numbers.push(25)
 
 let mixed = ['ken',4,'chin-li',8]
